@@ -9,4 +9,4 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 
 
- ![alt text]([http://url/to/img.png](https://images.shockbyte.com/knowledgebase/2023-01-18_LlwG9rwFZt.png)https://images.shockbyte.com/knowledgebase/2023-01-18_LlwG9rwFZt.png)
+ ![alt text]([https://images.shockbyte.com/knowledgebase/2023-01-18_LlwG9rwFZt.png)
